@@ -1,3 +1,4 @@
+#include "TXLib.h"
 #include <iostream>
 
 int main()
@@ -8,7 +9,7 @@ int main()
     {
         txSetFillColour(TX_WHITE);
     txClear();
-
+//Это русские буквы
     }
 
 
